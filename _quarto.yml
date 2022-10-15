@@ -21,6 +21,8 @@ website:
         href: https://an-bui.github.io/shop/
       - icon: github
         href: https://github.com/an-bui
+        
+reader-mode: true
 
 format:
   html:
