@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 6aa27d1d-f3a4-4dc8-8daa-51d5139e52a4
+      url: 'https://delicate-sorbet-5a680d.netlify.app'
