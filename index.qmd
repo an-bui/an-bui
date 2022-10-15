@@ -1,8 +1,8 @@
 ---
 image: images/headshot-square.jpg
 about: 
-  template: broadside
-  image-shape: rounded
+  template: trestles
+  image-shape: round
   links:
     - icon: twitter 
       text: Twitter
