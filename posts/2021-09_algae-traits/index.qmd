@@ -1,6 +1,6 @@
 ---
 title: "Marine macroalgae functional traits"
-description: "Functional traits can reveal life history strategies for algal species in the Santa Barbara Coastal Long Term Ecological Research Site."
+description: Functional traits can reveal life history strategies for algal species in the Santa Barbara Coastal Long Term Ecological Research Site.
 ---
 
 ![Cryptopleura ruprechtiana collected from Isla Vista Reef on 2021-07-19.](research_traits.jpg){fig-alt="Scan of Cryptopleura ruprechtiana, a marine macroalgae, on a white background. There is a ruler on the left for scale, and the sample tag is in the bottom left corner."}
