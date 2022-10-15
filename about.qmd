@@ -1,9 +1,84 @@
 ---
-title: "About"
+image: images/headshot-square.jpg
+about: 
+  template: broadside
+  image-shape: rounded
+  links:
+    - icon: twitter 
+      text: Twitter
+      href: https://twitter.com/_anbui
+    - icon: github 
+      text: GitHub
+      href: https://github.com/an_bui
+    - icon: envelope 
+      text: Email
+      href: mailto:an_bui@ucsb.edu
 ---
 
-About this site
+## About me
 
-```{r}
-1 + 1
-```
+I am a community ecologist at UC Santa Barbara in the Ecology, Evolution, and Marine Biology department. I use trait-based approaches to understand community responses to disturbance. Currently, I work in kelp forest systems focusing on algal recovery dynamics in the [Santa Barbara Coastal Long Term Ecological Research site](https://sbclter.msi.ucsb.edu/).
+
+------------------------------------------------------------------------
+
+## Current position
+
+<p class="custom-subtitle">
+
+PhD Candidate
+
+</p>
+
+<p class="custom-subtitle2">
+
+University of California, Santa Barbara
+
+</p>
+
+------------------------------------------------------------------------
+
+## Education
+
+::: topbr
+<p class="custom-subtitle">
+
+`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **MS in Ecology, Evolution & Marine Biology, 2020**
+
+</p>
+
+<p class="custom-subtitle2">
+
+University of California, Santa Barbara
+
+</p>
+
+<p class="custom-subtitle">
+
+`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **BS in Ecology, Evolution, and Marine Biology, 2015**
+
+</p>
+
+<p class="custom-subtitle2">
+
+University of California, Santa Barbara
+
+</p>
+:::
+
+<p class="custom-subtitle">
+
+`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **BS in English, 2015**
+
+</p>
+
+<p class="custom-subtitle2">
+
+University of California, Santa Barbara
+
+</p>
+
+</div>
+
+------------------------------------------------------------------------
+
+## 

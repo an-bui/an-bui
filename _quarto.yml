@@ -2,16 +2,31 @@ project:
   type: website
 
 website:
-  title: "an-bui"
+  title: "An Bui"
   navbar:
+    title: An Bui
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Data Science
+        href: data-science.qmd
+      - text: CV
+        href: CV/Bui-An_CV.pdf
+      - text: Prints
+        href: https://an-bui.github.io/shop/
+      - icon: github
+        href: https://github.com/an-bui
 
 format:
   html:
-    theme: cosmo
+    theme: 
+    - lux
+    - custom.scss
+    mainfont: Raleway
     css: styles.css
     toc: true
 
