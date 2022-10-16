@@ -18,7 +18,7 @@ $dark-green: #0B4221;
 
 // Base document colors
 $navbar-bg: $dark-green;
-$navbar-fg: $light-blue; 
+$navbar-fg: $grey; 
 $navbar-hl: $light-orange; 
 $body-bg: $light-cream;
 $body-color: $dark-green;
@@ -52,9 +52,9 @@ $code-block-bg: $cream;
   margin-bottom: 0.15em;
 }
 
-.title-block-header { 
+#title-block-header.quarto-title-block.default .quarto-title .title {
     color: #79ACBD;
-    }
+}
 
 /* ELEMENT SELECTORS (self-defined) */
 

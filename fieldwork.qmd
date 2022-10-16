@@ -1,0 +1,104 @@
+---
+title: "Fieldwork"
+page-layout: full
+code-tools: false
+---
+
+These are a selection of photos from places at which I have had the immense privilege to work.
+
+# Santa Barbara Coastal Long-Term Ecological Research sites, California
+
+::: column-page
+```{r}
+#| echo: false
+library(pixture)
+
+pixgallery(
+  list.files("images/fieldwork/sbc", 
+             full.names = TRUE),
+  caption = c("Kelp off Isla Vista Reef, Summer 2021.",
+             "Kelp off Mohawk Reef, Summer 2021.",
+             "Kelp off Mohawk Reef, Summer 2021.",
+             "White Shark off Carpinteria Reef, Summer 2021."),
+  dim = "200px",
+  gap = "10px"
+)
+```
+:::
+
+# Coto Brus canton, Costa Rica
+
+::: column-page
+```{r}
+#| echo: false
+
+pixgallery(
+  list.files("images/fieldwork/coto-brus", 
+             full.names = TRUE),
+  caption = c("View of Loma Linda farm, Spring 2022.",
+             "Measuring seedlings, Spring 2022.",
+             "Freshly constructed seedling cage, Spring 2022.",
+             "Seedlings in cage, Summer 2022."),
+  dim = "200px",
+  gap = "10px"
+)
+```
+:::
+
+# Tejon Ranch Conservancy, California
+
+::: column-page
+```{r}
+#| echo: false
+
+pixgallery(
+  list.files("images/fieldwork/tejon", 
+             full.names = TRUE),
+  caption = c("Michelle during one of our breaks sampling vegetation, Spring 2017.",
+             "Holly, Michelle, and Devyn sampling soil for Bui et al. 2020, Spring 2018.",
+             "Deer amongst oak trees, Summer 2016.",
+             "Bella, Devyn, Carina, and me, Summer 2016."),
+  dim = "200px",
+  gap = "10px"
+)
+```
+:::
+
+# Santa Barbara Island, California
+
+::: column-page
+```{r}
+#| echo: false
+
+pixgallery(
+  list.files("images/fieldwork/sbi", 
+             full.names = TRUE),
+  caption = c("View out the researcher cabin.",
+             "Cove.",
+             "Resting sea lions.",
+             "Western Gull chick."),
+  dim = "200px",
+  gap = "10px"
+)
+```
+:::
+
+# Palmyra Atoll, USA
+
+::: column-page
+```{r}
+#| echo: false
+
+pixgallery(
+  list.files("images/fieldwork/palmyra", 
+             full.names = TRUE),
+  caption = c("Me with Berlese funnels I sewed.",
+             "Coconut and hermit crabs eating a tagged coconut for Miller-ter Kuile 2020.",
+             "Glassy lagoon.",
+             "Manta Ray at the dock."),
+  dim = "200px",
+  gap = "10px"
+)
+```
+:::
+

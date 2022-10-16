@@ -12,8 +12,21 @@ Ecology is the basis of some of the most compelling stories about the world arou
 
 ### Ecology and Evolution of Terrestrial Vertebrates Lab - EEMB 113L
 
-::: column-margin
-![Comparison of different types of probing bills using UCSB Cheadle Center for Biodiversity and Restoration teaching specimens. Species from left to right are Whimbrel, Long-billed Curlew, and Marbled Godwit.](/images/teaching_shorebirds.JPG){fig-alt="Comparison of different types of probing bills using UCSB Cheadle Center for Biodiversity and Restoration teaching specimens. Species from left to right are Whimbrel, Long-billed Curlew, and Marbled Godwit." fig-align="left" width="400"}
+::: column-body
+```{r}
+#| echo: false
+library(pixture)
+
+pixgallery(
+  list.files("images/teaching/113L", 
+             full.names = TRUE),
+  caption = c("Students looking at sea otters through binoculars in Morro Bay, Fall 2019.",
+             "Coverboard at Sedgwick Reserve as part of reptile monitoring study, Fall 2019.",
+             "Comparison of different types of probing bills using UCSB Cheadle Center for Biodiversity and Restoration teaching specimens. Species from left to right are Whimbrel, Long-billed Curlew, and Marbled Godwit."),
+  dim = "200px",
+  gap = "10px"
+)
+```
 :::
 
 Organismal ecology and evolution can be understood in the same terms used to describe distinguishing features - for example, bill shape, foot type, and dentition are common "clues" for identifying animals, but these all contribute to a species' "ecology": what role does it play in an ecosystem?
@@ -23,7 +36,9 @@ By the end of the class, students will feel confident in their grasp of the foll
 1.  To identify terrestrial vertebrates using "ecological clues": habitat, behavior, morphology\
 2.  To understand animal survey methods and how they fit into experimental design
 
-This class fulfills these goals with a combination of nature walks, monitoring of local field sites, assignments, and assessments for students to track their progress throughout the quarter.
+This class fulfills these goals with a combination of nature walks, monitoring of local field sites, assignments, and assessments for students to track their progress throughout the quarter.\
+
+Please see the Fall 2022 syllabus for this course [here](https://docs.google.com/document/d/1cCA5BxasTRcdeEKatId02q91XdXcQr0wBsXxHYKyu80/edit?usp=sharing).
 
 Media coverage: [UCSB Current](https://www.news.ucsb.edu/2018/018616/field-tripping)
 
@@ -34,25 +49,25 @@ Media coverage: [UCSB Current](https://www.news.ucsb.edu/2018/018616/field-tripp
 <p><a href="https://vimeo.com/249854405">Field Tripping</a> from <a href="https://vimeo.com/ucsantabarbara">UC Santa Barbara</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 *Institution: University of California, Santa Barbara*\
-*Level: Undergraduate, 2 units*\
+*Level: Upper division undergraduate, 2 units*\
 *Role: Head Teaching Assistant*\
-*Quarters taught: Fall 2017, Winter 2018, Fall 2019, Fall 2020, Fall 2021, Fall 2022*
+*Quarters taught: Fall 2017, Winter 2018, Fall 2018, Fall 2019, Fall 2020, Fall 2021, Fall 2022*
 
 ### Ecological Modelling - EEMB 179/279
 
-Ecological modelling is an integral part of the scientific cycle of observation, experiment, and theory. In this course, we cover key ecological models paired with their execution in R. By the end of the course, students will understand theoretical models that underpin many ecological fields and how to implement those models using code.
+In this course, students learn foundational theoretical models in ecology. I taught students how to implement models in code using R and RStudio. By the end of the course, students confidently 1) navigated RMarkdown structure, 2) knew how to write and execute models in R, and 3) presented their results from a final project in which they analyzed an existing theoretical model.\
 
 *Institution: University of California, Santa Barbara*\
-*Level: Undergraduate and graduate, 4 units*\
+*Level: Upper division undergraduate and graduate, 4 units*\
 *Role: Teaching Assistant*\
 *Quarters taught: Winter 2019, Winter 2020*
 
 ### Introduction to Ecology - EEMB 120
 
-This course provides students with the knowledge and skills required to understand the natural world using ecological tools. This includes 1) understanding how organism traits influence communities and ecosystems, 2) how mathematical tools can be used to understand and predict population and community dynamics, and 3) how humans shape these processes. These skills are developed in a combination of individual and group projects in addition to assignments to check for understanding of these concepts throughout the quarter.
+This course provides a broad overview of ecological concepts from individuals to ecosystems. I taught students how to apply those concepts to current research and parse ecological literature. By the end of the course, students were confident in their skills of 1) reading scientific literature, 2) understanding study implications, and 3) placing research in the context of ecological theory.
 
 *Institution: University of California, Santa Barbara*\
-*Level: Undergraduate, 4 units*\
+*Level: Upper division undergraduate, 4 units*\
 *Role: Teaching Assistant*\
 *Quarters taught: Spring 2018, Spring 2019, Spring 2020*
 
