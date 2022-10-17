@@ -9,7 +9,7 @@ about:
       href: https://twitter.com/_anbui
     - icon: github 
       text: GitHub
-      href: https://github.com/an_bui
+      href: https://github.com/an-bui
     - icon: envelope 
       text: Email
       href: mailto:an_bui@ucsb.edu
