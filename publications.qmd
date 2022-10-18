@@ -30,4 +30,6 @@ Media coverage: [The Scientist](https://www.the-scientist.com/news-opinion/parad
 ## In review/revision
 
 Guerra, AS, **A Bui**, M Klope, DA Orr, SA Shaffer, HS Young. "Leaving more than footprints: anthropogenic nutrient subsidies to a protected area."\
-Orr, D, Z Zilz, E Duge, S Copeland, **A Bui**, CI Motta, A Swei, HS Young. "Context-dependent effects of wildlife and cattle on tick survivorship".
+Orr, D, Z Zilz, E Duge, S Copeland, **A Bui**, CI Motta, A Swei, HS Young. "Context-dependent effects of wildlife and cattle on tick survivorship".\
+Miller-ter Kuile, A, A Apigo, **A Bui**, K Butner, JN Childress, S Copeland, BP DiFiore, ES Forbes, M Klope, CI Motta, D Orr, KA Plummer, DL Preston, HS Young. “Changes in invertebrate food web structure between high- and low-productivity environments are driven by intermediate but not top predator diet shifts.”\
+Copeland, S, S Sambado, **A Bui**, D Orr, A Swei, HS Young. “Context-dependent effects of wildlife declines and livestock additions across a climatic gradient on tick abundance in southern California.”
