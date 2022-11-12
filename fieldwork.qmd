@@ -6,7 +6,7 @@ code-tools: false
 
 These are a selection of photos from places at which I have had the immense privilege to work.
 
-# Santa Barbara Coastal Long-Term Ecological Research sites, California
+## Santa Barbara Coastal Long-Term Ecological Research sites, California
 
 ::: column-page
 ```{r}
@@ -26,7 +26,7 @@ pixgallery(
 ```
 :::
 
-# Coto Brus canton, Costa Rica
+## Coto Brus canton, Costa Rica
 
 ::: column-page
 ```{r}
@@ -45,7 +45,7 @@ pixgallery(
 ```
 :::
 
-# Tejon Ranch Conservancy, California
+## Tejon Ranch Conservancy, California
 
 ::: column-page
 ```{r}
@@ -64,7 +64,7 @@ pixgallery(
 ```
 :::
 
-# Santa Barbara Island, California
+## Santa Barbara Island, California
 
 ::: column-page
 ```{r}
@@ -83,7 +83,7 @@ pixgallery(
 ```
 :::
 
-# Palmyra Atoll, USA
+## Palmyra Atoll, USA
 
 ::: column-page
 ```{r}
@@ -102,3 +102,6 @@ pixgallery(
 ```
 :::
 
+## Code note
+
+I drew my inspiration from Chris Gebhard's jolly data blog, specifically the page of [different data visualizations](https://jollydata.blog/challenges.html) for which there is code [here](https://github.com/nucleic-acid/quarto-blog/blob/main/challenges.qmd). See the {pixture} [package page](https://www.royfrancis.com/pixture/) for details, and my code to create this page [here](https://github.com/an-bui/an-bui/blob/main/fieldwork.qmd) (directly taken from Chris's code).
