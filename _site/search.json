@@ -39,7 +39,49 @@
     "href": "fieldwork.html",
     "title": "Fieldwork",
     "section": "",
-    "text": "Santa Barbara Coastal Long-Term Ecological Research sites, California\n\n\n\n\n\n\n\n\n\n\nCoto Brus canton, Costa Rica\n\n\n\n\n\n\n\n\n\n\nTejon Ranch Conservancy, California\n\n\n\n\n\n\n\n\n\n\nSanta Barbara Island, California\n\n\n\n\n\n\n\n\n\n\nPalmyra Atoll, USA"
+    "text": "These are a selection of photos from places at which I have had the immense privilege to work."
+  },
+  {
+    "objectID": "fieldwork.html#santa-barbara-coastal-long-term-ecological-research-sites-california",
+    "href": "fieldwork.html#santa-barbara-coastal-long-term-ecological-research-sites-california",
+    "title": "Fieldwork",
+    "section": "Santa Barbara Coastal Long-Term Ecological Research sites, California",
+    "text": "Santa Barbara Coastal Long-Term Ecological Research sites, California"
+  },
+  {
+    "objectID": "fieldwork.html#coto-brus-canton-costa-rica",
+    "href": "fieldwork.html#coto-brus-canton-costa-rica",
+    "title": "Fieldwork",
+    "section": "Coto Brus canton, Costa Rica",
+    "text": "Coto Brus canton, Costa Rica"
+  },
+  {
+    "objectID": "fieldwork.html#tejon-ranch-conservancy-california",
+    "href": "fieldwork.html#tejon-ranch-conservancy-california",
+    "title": "Fieldwork",
+    "section": "Tejon Ranch Conservancy, California",
+    "text": "Tejon Ranch Conservancy, California"
+  },
+  {
+    "objectID": "fieldwork.html#santa-barbara-island-california",
+    "href": "fieldwork.html#santa-barbara-island-california",
+    "title": "Fieldwork",
+    "section": "Santa Barbara Island, California",
+    "text": "Santa Barbara Island, California"
+  },
+  {
+    "objectID": "fieldwork.html#palmyra-atoll-usa",
+    "href": "fieldwork.html#palmyra-atoll-usa",
+    "title": "Fieldwork",
+    "section": "Palmyra Atoll, USA",
+    "text": "Palmyra Atoll, USA"
+  },
+  {
+    "objectID": "fieldwork.html#code-note",
+    "href": "fieldwork.html#code-note",
+    "title": "Fieldwork",
+    "section": "Code note",
+    "text": "Code note\nI drew my inspiration from Chris Gebhard’s jolly data blog, specifically the page of different data visualizations for which there is code here. See the {pixture} package page for details, and my code to create this page here (directly taken from Chris’s code)."
   },
   {
     "objectID": "posts/2020-09_soil-fungi/index.html",
@@ -53,7 +95,7 @@
     "href": "posts/2021-09_algae-traits/index.html",
     "title": "Marine macroalgae functional traits",
     "section": "",
-    "text": "Cryptopleura ruprechtiana collected from Isla Vista Reef on 2021-07-19."
+    "text": "To answer these questions, I work in unceded Barbareño Chumash land, or the Santa Barbara Coastal Long-term Ecological Research site (SBC LTER). I hypothesized that the most meaningful traits differentiating species would be related to photosynthesis and competition for space, given that light and substrate are major determinants of benthic macroalgal community structure. I measured a suite of traits related to light capture, physical structure, and herbivore palatability for the most common species in the SBC LTER.\n\n\n\nSome samples I have collected.\n\n\nPreliminary data suggest that traits related to vertical space use and light competition (e.g. total individual dry mass, maximum height, frond length, photosynthetic efficiency) define one principal component or axis along which species can be differentiated, while traits related to resource use (e.g. thallus dry matter content, thallus surface area to volume ratio) define another principal component.\n\n\n\nPCA of algal traits. Each point is an individual."
   },
   {
     "objectID": "data-science.html",
@@ -77,11 +119,11 @@
     "text": "Publications\n\nFungal community data\nData and analysis to accompany Bui et al., “Soil fungal community composition and functional similarity shift across distinct climatic conditions.” FEMS Microbiology Ecology. Published 22 September 2020. https://doi.org/10.1093/femsec/fiaa193.\n- Github repository"
   },
   {
-    "objectID": "data-science.html#use",
-    "href": "data-science.html#use",
+    "objectID": "data-science.html#code-notes",
+    "href": "data-science.html#code-notes",
     "title": "Data Science",
-    "section": "Use",
-    "text": "Use\nPlease feel free to use or co-opt any of these materials with credit to me (and others, if they are listed). Let me know if you have any questions!"
+    "section": "Code notes",
+    "text": "Code notes\nI created this website in October 2022, when Quarto was (and still is) the cool, new tool for website building. I’ve left a few “code notes” at the bottom of various pages for anyone thinking of creating a website using Quarto wanting to see the underlying code. I drew heavily on Sam Csik’s Quarto resources, including “Creating your personal website using Quarto”, “Customizing Quarto Websites”, and “Adding a blog to your existing Quarto website”. The Github repo for this site is here. Happy Quarto-ing!"
   },
   {
     "objectID": "index.html",
@@ -116,14 +158,21 @@
     "href": "publications.html#publications",
     "title": "Publications",
     "section": "Publications",
-    "text": "Publications\n\n\nIngeman, KE, C Wolf, DR Williams, LZ Zhao, AL Ritger, WJ Ripple, KL Kopecky, EM Dillon, BP DiFiore, SR Csik, A Bui, AC Stier. “Glimmers of Hope in Global Apex Predator Recovery.” Scientific Reports. 2022. PDF.\n\n\nOrr, D, A Bui, MM Klope, M Lee, I McCullough, CI Motta, I Mayorga, K Konicek, K, HS Young. “Context-dependent effects of shifting large herbivore assemblages on plant structure and diversity.” Journal of Ecology. 2022. PDF.\n\n\nMiller ter-Kuile, A, A Apigo, A Bui … HS Young. “Predator-prey interactions of terrestrial invertebrates are determined by predator body size and species identity.” Ecology. 2022. PDF.\n\n\nBui, A, D Orr, M Lepori-Bui, K Konicek, HS Young, HV Moeller. “Soil fungal community composition and functional similarity shift across distinct climatic conditions.” FEMS Microbiology Ecology. 2020. PDF.\nMedia coverage: UCSB Current, The Bottom Line\n\n\nMiller-ter Kuile, A, D Orr, A Bui, R Dirzo, M Klope, DJ McCauley, C Motta, HS Young. “Impacts of rodent eradication on seed predation and plant community biomass.” Biotropica. 2020. PDF.\nMedia coverage: UCSB Current, The Economist, Atlas Obscura\n\n\nLafferty, KD, JP McLaughlin, DS Gruner, TA Bogar, A Bui, JN Childress, M Espinosa, ES Forbes, CA Johnston, M Klope, A Miller-ter Kuile, M Lee, KA Plummer, DA Weber, RT Young, HS Young. “Secondary extinction of Asian tiger mosquitoes (Aedes albopictus) following rat eradication on Palmyra Atoll.” Biology Letters. 2018. PDF.\nMedia coverage: The Scientist\n\n\nHardesty-Moore, M, S Deinet, R Freeman, GC Titcomb, EM Dillon, K Stears, M Klope, A Bui, D Orr, HS Young, A Miller-ter Kuile, LF Hughey, DJ McCauley. “Migration in the Anthropocene: how collective navigation, environmental system, and taxonomy shape the vulnerability of migratory species.” Philosophical Transactions of the Royal Society B. 2017. PDF."
+    "text": "Publications\n\n\nGuerra, AS, A Bui, M Klope, DA Orr, SA Shaffer, HS Young. “Leaving more than footprints: anthropogenic nutrient subsidies to a protected area.” Ecosphere. 2022. (accepted)\n\n\nMiller-ter Kuile, A, A Apigo, A Bui, K Butner, JN Childress, S Copeland, BP DiFiore, ES Forbes, M Klope, CI Motta, D Orr, KA Plummer, DL Preston, HS Young “Changes in invertebrate food web structure between high- and low-productivity environments are driven by intermediate but not top-predator diet shifts.” Biology Letters. 2022. PDF.\n\n\nIngeman, KE, C Wolf, DR Williams, LZ Zhao, AL Ritger, WJ Ripple, KL Kopecky, EM Dillon, BP DiFiore, SR Csik, A Bui, AC Stier. “Glimmers of Hope in Global Apex Predator Recovery.” Scientific Reports. 2022. PDF.\n\n\nOrr, D, A Bui, MM Klope, M Lee, I McCullough, CI Motta, I Mayorga, K Konicek, K, HS Young. “Context-dependent effects of shifting large herbivore assemblages on plant structure and diversity.” Journal of Ecology. 2022. PDF.\n\n\nMiller-ter Kuile, A, A Apigo, A Bui, B DiFiore, ES Forbes, M Lee, D Orr, DL Preston, R Behm, T Bogar, J Childress, R Dirzo, M Klope, KD Lafferty, J McLaughlin, M Morse, C Motta, K Park, K Plummer, D Weber, R Young, H Young. “Predator-prey interactions of terrestrial invertebrates are determined by predator body size and species identity.” Ecology. 2022. PDF.\n\n\nBui, A, D Orr, M Lepori-Bui, K Konicek, HS Young, HV Moeller. “Soil fungal community composition and functional similarity shift across distinct climatic conditions.” FEMS Microbiology Ecology. 2020. PDF.\nMedia coverage: UCSB Current, The Bottom Line\n\n\nMiller-ter Kuile, A, D Orr, A Bui, R Dirzo, M Klope, DJ McCauley, C Motta, HS Young. “Impacts of rodent eradication on seed predation and plant community biomass.” Biotropica. 2020. PDF.\nMedia coverage: UCSB Current, The Economist, Atlas Obscura\n\n\nLafferty, KD, JP McLaughlin, DS Gruner, TA Bogar, A Bui, JN Childress, M Espinosa, ES Forbes, CA Johnston, M Klope, A Miller-ter Kuile, M Lee, KA Plummer, DA Weber, RT Young, HS Young. “Secondary extinction of Asian tiger mosquitoes (Aedes albopictus) following rat eradication on Palmyra Atoll.” Biology Letters. 2018. PDF.\nMedia coverage: The Scientist\n\n\nHardesty-Moore, M, S Deinet, R Freeman, GC Titcomb, EM Dillon, K Stears, M Klope, A Bui, D Orr, HS Young, A Miller-ter Kuile, LF Hughey, DJ McCauley. “Migration in the Anthropocene: how collective navigation, environmental system, and taxonomy shape the vulnerability of migratory species.” Philosophical Transactions of the Royal Society B. 2017. PDF."
   },
   {
     "objectID": "publications.html#in-reviewrevision",
     "href": "publications.html#in-reviewrevision",
     "title": "Publications",
     "section": "In review/revision",
-    "text": "In review/revision\nGuerra, AS, A Bui, M Klope, DA Orr, SA Shaffer, HS Young. “Leaving more than footprints: anthropogenic nutrient subsidies to a protected area.”\nOrr, D, Z Zilz, E Duge, S Copeland, A Bui, CI Motta, A Swei, HS Young. “Context-dependent effects of wildlife and cattle on tick survivorship”.\nMiller-ter Kuile, A, A Apigo, A Bui, K Butner, JN Childress, S Copeland, BP DiFiore, ES Forbes, M Klope, CI Motta, D Orr, KA Plummer, DL Preston, HS Young. “Changes in invertebrate food web structure between high- and low-productivity environments are driven by intermediate but not top predator diet shifts.”\nCopeland, S, S Sambado, A Bui, D Orr, A Swei, HS Young. “Context-dependent effects of wildlife declines and livestock additions across a climatic gradient on tick abundance in southern California.”"
+    "text": "In review/revision\nOrr, D, Z Zilz, E Duge, S Copeland, A Bui, CI Motta, A Swei, HS Young. “Context-dependent effects of wildlife and cattle on tick survivorship”.\nCopeland, S, S Sambado, A Bui, D Orr, A Swei, HS Young. “Context-dependent effects of wildlife declines and livestock additions across a climatic gradient on tick abundance in southern California.”"
+  },
+  {
+    "objectID": "publications.html#code-note",
+    "href": "publications.html#code-note",
+    "title": "Publications",
+    "section": "Code note",
+    "text": "Code note\nI battled for a long time to make the reverse numbered list on this page work. If you want to implement this on your own website, the code for this page is here."
   },
   {
     "objectID": "about.html",
@@ -144,6 +193,6 @@
     "href": "about.html#education",
     "title": "An Bui",
     "section": "Education",
-    "text": "Education\n\n\nGraduation Cap MS in Ecology, Evolution & Marine Biology, 2020\n\n\nUniversity of California, Santa Barbara\n\n\nGraduation Cap BS in Ecology, Evolution, and Marine Biology, 2015\n\n\nUniversity of California, Santa Barbara\n\n\n\nGraduation Cap BS in English, 2015\n\n\nUniversity of California, Santa Barbara"
+    "text": "Education\n\n\nGraduation Cap MS in Ecology, Evolution & Marine Biology, 2020\n\n\nUniversity of California, Santa Barbara\n\n\nGraduation Cap BS in Ecology, Evolution, and Marine Biology, 2015\n\n\nUniversity of California, Santa Barbara\n\n\nGraduation Cap BS in English, 2015\n\n\nUniversity of California, Santa Barbara"
   }
 ]
