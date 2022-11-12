@@ -63,7 +63,6 @@ University of California, Santa Barbara
 University of California, Santa Barbara
 
 </p>
-:::
 
 <p class="custom-subtitle">
 
@@ -79,6 +78,10 @@ University of California, Santa Barbara
 
 </div>
 
+:::
+
 ------------------------------------------------------------------------
 
-## 
+
+
+
